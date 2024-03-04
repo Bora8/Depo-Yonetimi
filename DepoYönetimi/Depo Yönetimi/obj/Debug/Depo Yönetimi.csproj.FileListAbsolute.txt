@@ -1,0 +1,28 @@
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\bin\Debug\Depo Yönetimi.exe.config
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\bin\Debug\Depo Yönetimi.exe
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\bin\Debug\Depo Yönetimi.pdb
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.AssemblyReference.cache
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Properties.Resources.resources
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.GenerateResource.cache
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo Yönetimi.exe
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo Yönetimi.pdb
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Grubu_Tanımlama.resources
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ana_Ekran.resources
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Alt_Grubu_Tanımlama.resources
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Tanımlama.resources
+C:\Users\sys\source\repos\Depo Yönetimi\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Hareketleri.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\bin\Debug\Depo Yönetimi.exe.config
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\bin\Debug\Depo Yönetimi.exe
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\bin\Debug\Depo Yönetimi.pdb
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.AssemblyReference.cache
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ana_Ekran.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Properties.Resources.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Alt_Grubu_Tanımlama.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Grubu_Tanımlama.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Hareketleri.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo_Yönetimi.Ürün_Tanımlama.resources
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.GenerateResource.cache
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo Yönetimi.exe
+C:\Users\gulul\OneDrive\Masaüstü\Depo Yönetimi\obj\Debug\Depo Yönetimi.pdb
